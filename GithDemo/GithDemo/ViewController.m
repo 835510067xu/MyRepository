@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+//的开场就打开了韩剧飞的平均分
 @interface ViewController ()
 
 @end
